@@ -58,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.50312423706055,
-    "collapsed": true
+    "width": 239.50312423706055
   },
   "right": {
     "id": "8643840f8a066c80",
@@ -175,19 +174,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "bf135b82956cbe8b",
   "lastOpenFiles": [
-    "README.md",
     "Automatizacion en Python/Libreria OS/0-Temario.md",
     "Automatizacion en Python/Libreria OS/1. path/7.  Obtener fecha de último acceso.md",
+    "README.md",
     "Automatizacion en Python/Libreria OS/1. path/6. Obtener el nombre del directorio, Saber el tamaño de directorio y Saber la fecha de modificación.md",
     "Automatizacion en Python/Libreria OS/3-Renombramiento de archivos, remplazar.md",
     "Problemas lógicos /Python Avanzado/4. Map.md",

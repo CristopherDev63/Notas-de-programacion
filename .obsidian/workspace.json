@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatizacion en Python/Libreria OS/1. path/7.  Obtener fecha de último acceso.md",
+                "file": "Automatizacion en Python/Libreria OS/Practicas como ejemplos/Monitorizar actividad de archivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.  Obtener fecha de último acceso"
+              "title": "Monitorizar actividad de archivos"
             }
           },
           {
@@ -179,16 +179,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "bf135b82956cbe8b",
   "lastOpenFiles": [
-    "Automatizacion en Python/Libreria OS/0-Temario.md",
-    "Automatizacion en Python/Libreria OS/1. path/7.  Obtener fecha de último acceso.md",
-    "README.md",
-    "Automatizacion en Python/Libreria OS/1. path/6. Obtener el nombre del directorio, Saber el tamaño de directorio y Saber la fecha de modificación.md",
+    "Automatizacion en Python/Untitled.md",
+    "Automatizacion en Python/Funciones útiles para python",
+    "Automatizacion en Python/Libreria OS/Practicas como ejemplos/Monitorizar actividad de archivos.md",
     "Automatizacion en Python/Libreria OS/3-Renombramiento de archivos, remplazar.md",
+    "Automatizacion en Python/Libreria OS/1. path/7.  Obtener fecha de último acceso.md",
+    "Automatizacion en Python/Libreria OS/Untitled.md",
+    "Automatizacion en Python/Libreria OS/Practicas como ejemplos",
+    "Automatizacion en Python/Libreria OS/1. path/6. Obtener el nombre del directorio, Saber el tamaño de directorio y Saber la fecha de modificación.md",
+    "Automatizacion en Python/Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio.md",
+    "Automatizacion en Python/Libreria OS/1. path/4-Combinar rutas y archivos, Saber su Existencia, Sabes la existencia de archivos.md",
+    "Automatizacion en Python/Libreria OS/2-Creación directorios, eliminar directorios,  eliminar archivos.md",
+    "Automatizacion en Python/Libreria OS/0-Temario.md",
+    "Notas Personales/Diaro Laboral/2025-08-13.md",
+    "Notas Personales/Diaro Laboral/Plantilla.md",
+    "Notas Personales/Diaro Laboral/¿Qué hacer?.md",
+    "Java en una semana/0. Temario.md",
+    "Notas Personales/Diaro Laboral",
+    "Notas Personales",
+    "Java en una semana",
+    "README.md",
     "Problemas lógicos /Python Avanzado/4. Map.md",
     "Problemas lógicos /Python Avanzado/Problemas documentados/Map o diccionarios 24678a15854c8076aaf6f9c1ae99b9e9.md",
     "Problemas lógicos /Python Avanzado/3-Lambda.md",
@@ -202,23 +218,7 @@
     "Problemas lógicos /Sin nombre",
     "Problemas lógicos /Python Avanzado",
     "Problemas lógicos /b3796bed-1ca2-4825-8ade-79805dde95b8_Export-3002cd53-a673-4467-a4cd-27e14f8e6d41/Problemas lógicos 24478a15854c80b4832dfd08d74e3c62.md",
-    "Problemas lógicos /b3796bed-1ca2-4825-8ade-79805dde95b8_Export-3002cd53-a673-4467-a4cd-27e14f8e6d41/Problemas lógicos 24478a15854c80b4832dfd08d74e3c62",
-    "Problemas lógicos /b3796bed-1ca2-4825-8ade-79805dde95b8_Export-3002cd53-a673-4467-a4cd-27e14f8e6d41",
-    "Problemas lógicos /b3796bed-1ca2-4825-8ade-79805dde95b8_Export-3002cd53-a673-4467-a4cd-27e14f8e6d41.zip",
-    "Problemas lógicos ",
-    "Automatizacion en Python/Libreria OS/1. path/4-Combinar rutas y archivos, Saber su Existencia, Sabes la existencia de archivos.md",
     "automatizacion en python/Libreria OS/1.path/6. Obtener el nombre del directorio, Saber el tamaño de directorio y Saber la fecha de modificación.md",
-    "Automatizacion en Python/Libreria OS/1.path/6. Obtener el nombre del directorio.md",
-    "Automatizacion en Python/Libreria OS/1.path/6.Obtener el nombre del directorio.md",
-    "automatizacion en python/Libreria OS/1.path/5-Existencia de un directorio, dividir ruta o directorio.md",
-    "automatizacion en python/Libreria OS/1.path/4-Combinar rutas y archivos, Saber su Existencia, Sabes la existencia de archivos.md",
-    "automatizacion en python/Libreria OS/bf4ccd40-18ab-45e0-b20c-9e721c0d5933_Export-6e2a21bb-c85e-4658-a945-dfe41c00f727.zip",
-    "automatizacion en python/Libreria OS/3-Renombramiento de archivos, remplazar.md",
-    "automatizacion en python/Libreria OS/2-Creación directorios, eliminar directorios,  eliminar archivos.md",
-    "automatizacion en python/Libreria OS/1-Saber Directorio actual, Cambiar de directorio,  En listar elementos.md",
-    "automatizacion en python/Libreria OS/0-Temario.md",
-    "Automatizacion en Python/Libreria OS/1-Saber Directorio actual, Cambiar de directorio,  En listar elementos.md",
-    "Automatizacion en Python/Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio.md",
-    "Automatizacion en Python/Libreria OS/2-Creación directorios, eliminar directorios,  eliminar archivos.md"
+    "Automatizacion en Python/Libreria OS/1.path/6. Obtener el nombre del directorio.md"
   ]
 }

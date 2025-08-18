@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatizacion en Python/Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo.md",
+                "file": "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/8. Separador de rutas, Agregar extensión, representar padre directorio.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo"
+              "title": "8. Separador de rutas, Agregar extensión, representar padre directorio"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,14 +206,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1236bcf0d56362ba",
+  "active": "cd7f66721c1cbd1f",
   "lastOpenFiles": [
+    "Automatizacion en Python/Libreria OS/0-Temario OS.md",
+    "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/8. Separador de rutas, Agregar extensión, representar padre directorio.md",
+    "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/9. Punto, clave para leer variables de entorno, usar variables de entorno.md",
+    "Automatizacion en Python/Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo.md",
     "Automatizacion en Python/Libreria OS/1. path/6. Obtener el nombre del directorio, Saber el tamaño de directorio y Saber la fecha de modificación.md",
     "Automatizacion en Python/Libreria OS/1. path/4-Combinar rutas y archivos, Saber su Existencia, Sabes la existencia de archivos.md",
-    "Automatizacion en Python/Libreria OS/0-Temario OS.md",
-    "Automatizacion en Python/Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo.md",
-    "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/9. Punto, clave para leer variables de entorno.md",
-    "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/8. Separador de rutas, Agregar extensión.md",
     "Automatizacion en Python/Libreria OS/1. path/7. Obtener fecha de último acceso.md",
     "Automatizacion en Python/Temario de Automatización en Python.md",
     "check.md",

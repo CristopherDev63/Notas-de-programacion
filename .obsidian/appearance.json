@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Material Gruvbox",
-  "baseFontSize": 15
+  "cssTheme": "Tokyo Night",
+  "baseFontSize": 15,
+  "accentColor": "#b8f55c"
 }

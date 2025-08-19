@@ -3,7 +3,7 @@
 No te quedes en lo básico; domínalo con problemas desafiantes desde el inicio.
 
 1. **Python Avanzado desde el Día 1**:
-    - List comprehensions, lambdas, **`map`**, **`filter`**, **`reduce`**.
+    - List comprehensions, lambdas, **`map`**, **`filter`**, **`reduce`**. [[2-Listas de comprensión]] [[3-Lambda]] [[4. Map]] [[5. filter]] [[6. Reduce]]
     - Manejo de excepciones y context managers (**`with`**).
     - Librerías clave: **`collections`** (**`defaultdict`**, **`Counter`**), **`itertools`**.
 2. **Estructuras de Datos Implementadas desde Cero**:

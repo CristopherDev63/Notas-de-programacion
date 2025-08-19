@@ -29,10 +29,10 @@ La librería os en Python es fundamental para interactuar con el sistema operati
     - `os.getenv(key, default=None)`: Obtener el valor de una variable de entorno. Esto es útil para configurar scripts con información sensible (como claves API) sin codificarla directamente. [[9. Punto, clave para leer variables de entorno, usar variables de entorno]]
     - `os.putenv(key, value)`: Establecer el valor de una variable de entorno. [[9. Punto, clave para leer variables de entorno, usar variables de entorno]]
 3. Ejecución de Comandos del Sistema
-    - `os.system(command)`: Ejecutar un comando shell. Útil para interactuar con programas externos o comandos del sistema operativo (como `ping`, `ipconfig`, etc.). Ten en cuenta que es menos seguro y flexible que `subprocess`.
-    - `os.startfile(path)` (Solo Windows): Abrir un archivo con la aplicación asociada.
+    - `os.system(command)`: Ejecutar un comando shell. Útil para interactuar con programas externos o comandos del sistema operativo (como `ping`, `ipconfig`, etc.). Ten en cuenta que es menos seguro y flexible que `subprocess`. [[10. Ejecutar comandos, ejecutar archivos en windows, Saber nombre del sistema operativo]]
+    - `os.startfile(path)` (Solo Windows): Abrir un archivo con la aplicación asociada. [[10. Ejecutar comandos, ejecutar archivos en windows, Saber nombre del sistema operativo]]
 4. Información del Sistema Operativo
-    - `os.name`: Nombre del sistema operativo dependiente. Por ejemplo, '`posix`' para Linux/macOS y 'nt' para Windows. Útil para ejecutar código específico para cada sistema.
+    - `os.name`: Nombre del sistema operativo dependiente. Por ejemplo, '`posix`' para Linux/macOS y 'nt' para Windows. Útil para ejecutar código específico para cada sistema. [[10. Ejecutar comandos, ejecutar archivos en windows, Saber nombre del sistema operativo]]
     - `os.cpu_count()`: Número de CPUs en el sistema.
     - `os.getlogin()`: Nombre del usuario logueado.
 5. Procesos (Nociones Básicas)

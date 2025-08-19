@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1236bcf0d56362ba",
+            "id": "cd7f66721c1cbd1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/8. Separador de rutas, Agregar extensión, representar padre directorio.md",
-                "mode": "preview",
+                "file": "Automatizacion en Python/Libreria OS/3. Comandos de sistema operativo/11. Numero de núcleos de la cpu y nombre del usuario..md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Separador de rutas, Agregar extensión, representar padre directorio"
+              "title": "11. Numero de núcleos de la cpu y nombre del usuario."
             }
           },
           {
-            "id": "cd7f66721c1cbd1f",
+            "id": "801a723eaf2a3e23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,19 +34,8 @@
               "icon": "lucide-file",
               "title": "0-Temario OS"
             }
-          },
-          {
-            "id": "eac95237ca84e7d5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,41 +198,41 @@
   "active": "cd7f66721c1cbd1f",
   "lastOpenFiles": [
     "Automatizacion en Python/Libreria OS/0-Temario OS.md",
-    "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/8. Separador de rutas, Agregar extensión, representar padre directorio.md",
+    "Automatizacion en Python/Libreria OS/3. Comandos de sistema operativo/11. Numero de núcleos de la cpu y nombre del usuario..md",
+    "Automatizacion en Python/Libreria OS/3. Comandos de sistema operativo/10. Ejecutar comandos, ejecutar archivos en windows, Saber nombre del sistema operativo.md",
     "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/9. Punto, clave para leer variables de entorno, usar variables de entorno.md",
+    "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno/8. Separador de rutas, Agregar extensión, representar padre directorio.md",
+    "Problemas lógicos /Python Avanzado/2-Listas de comprensión.md",
+    "Automatizacion en Python/Libreria OS/3. Comandos de sistema operativo",
+    "Mysql/Temario.md",
+    "Automatizacion en Python/Libreria OS/1. path/7. Obtener fecha de último acceso.md",
+    "Mysql",
+    "Notas Personales/Diaro Laboral/Plantilla.md",
+    "Notas Personales/Diaro Laboral/2025-08-13.md",
+    "Notas Personales/Diaro Laboral/¿Qué hacer?.md",
+    "Sin título.canvas",
+    "Java en una semana/0. Temario.md",
+    "Problemas lógicos /1-Plan de estudios generado por AI.md",
+    "Problemas lógicos /Python Avanzado/5. filter.md",
+    "Problemas lógicos /Python Avanzado/4. Map.md",
+    "Problemas lógicos /Python Avanzado/3-Lambda.md",
+    "Problemas lógicos /Python Avanzado/6. Reduce.md",
+    "Problemas lógicos /Python Avanzado/Problemas documentados/Map o diccionarios 24678a15854c8076aaf6f9c1ae99b9e9.md",
+    "Problemas lógicos /Python Avanzado/Problemas documentados/Listas de compresión problemas 24578a15854c809dbd74fbf72260e7e0.md",
     "Automatizacion en Python/Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo.md",
     "Automatizacion en Python/Libreria OS/1. path/6. Obtener el nombre del directorio, Saber el tamaño de directorio y Saber la fecha de modificación.md",
     "Automatizacion en Python/Libreria OS/1. path/4-Combinar rutas y archivos, Saber su Existencia, Sabes la existencia de archivos.md",
-    "Automatizacion en Python/Libreria OS/1. path/7. Obtener fecha de último acceso.md",
     "Automatizacion en Python/Temario de Automatización en Python.md",
     "check.md",
-    "Sin título.canvas",
     "Automatizacion en Python/Funciones útiles para python/endswith.md",
-    "Problemas lógicos /Python Avanzado/Problemas documentados/Listas de compresión problemas 24578a15854c809dbd74fbf72260e7e0.md",
-    "Problemas lógicos /Python Avanzado/Problemas documentados/Map o diccionarios 24678a15854c8076aaf6f9c1ae99b9e9.md",
-    "Problemas lógicos /Python Avanzado/4. Map.md",
-    "Problemas lógicos /Python Avanzado/2-Listas de comprensión.md",
-    "Problemas lógicos /Python Avanzado/3-Lambda.md",
     "Automatizacion en Python/Libreria OS/0. Gestions archivos y directorios/3-Renombramiento de archivos, remplazar.md",
-    "Automatizacion en Python/Libreria OS/0. Gestions archivos y directorios/1-Saber Directorio actual, Cambiar de directorio,  En listar elementos.md",
     "Automatizacion en Python/Libreria OS/2. Gestion de variables de entorno",
     "Automatizacion en Python/Libreria OS/0. Gestions archivos y directorios",
-    "Automatizacion en Python/Libreria OS/0. Gestions archivos y directorios/2-Creación directorios, eliminar directorios,  eliminar archivos.md",
-    "Automatizacion en Python/Libreria OS/Practicas como ejemplos/Monitorizar actividad de archivos.md",
-    "Automatizacion en Python/Untitled.md",
     "Automatizacion en Python/Funciones útiles para python",
-    "Automatizacion en Python/Libreria OS/Untitled.md",
     "Automatizacion en Python/Libreria OS/Practicas como ejemplos",
-    "Notas Personales/Diaro Laboral/2025-08-13.md",
-    "Notas Personales/Diaro Laboral/Plantilla.md",
-    "Notas Personales/Diaro Laboral/¿Qué hacer?.md",
-    "Java en una semana/0. Temario.md",
     "Notas Personales/Diaro Laboral",
     "Notas Personales",
     "Java en una semana",
-    "README.md",
-    "Problemas lógicos/Python Avanzado",
-    "Problemas lógicos",
-    "Problemas lógicos /Python Avanzado/Problemas documentados"
+    "Problemas lógicos/Python Avanzado"
   ]
 }

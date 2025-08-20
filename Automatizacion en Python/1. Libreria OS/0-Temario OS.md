@@ -33,9 +33,9 @@ La librería os en Python es fundamental para interactuar con el sistema operati
     - `os.startfile(path)` (Solo Windows): Abrir un archivo con la aplicación asociada. [[10. Ejecutar comandos, ejecutar archivos en windows, Saber nombre del sistema operativo]]
 4. Información del Sistema Operativo
     - `os.name`: Nombre del sistema operativo dependiente. Por ejemplo, '`posix`' para Linux/macOS y 'nt' para Windows. Útil para ejecutar código específico para cada sistema. [[10. Ejecutar comandos, ejecutar archivos en windows, Saber nombre del sistema operativo]]
-    - `os.cpu_count()`: Número de CPUs en el sistema.
+    - `os.cpu_count()`: Número de CPUs en el sistema. [[11. Numero de núcleos de la cpu y nombre del usuario.]]
     - `os.getlogin()`: Nombre del usuario logueado.
-5. Procesos (Nociones Básicas)
+5. Procesos (Nociones Básicas) [[11. Numero de núcleos de la cpu y nombre del usuario.]]
 Aunque para automatización avanzada de procesos se usa más la librería `subproces`s, es bueno conocer estas funciones básicas:
     - `os.getpid()`: Obtener el ID del proceso actual.
     - `os.getppid()`: Obtener el ID del proceso padre.

@@ -1,0 +1,1 @@
+Es un concepto informático para referirse a una **copia de seguridad**. 

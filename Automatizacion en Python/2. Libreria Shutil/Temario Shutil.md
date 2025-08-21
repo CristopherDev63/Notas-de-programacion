@@ -21,7 +21,7 @@
 - Precaución: Eliminación recursiva irreversible.
 - Ejemplo: Limpiar directorios temporales al final de un script.
 
-#### **3.2. Comparación con `os.remove` y `os.rmdir`**
+#### **3.2. Comparación con `os.remove` y `os.rmdir`** [[5. Cuando usar os y shutil para eliminar]]
 - ¿Cuándo usar `shutil` vs `os` para eliminar?
 
 ---

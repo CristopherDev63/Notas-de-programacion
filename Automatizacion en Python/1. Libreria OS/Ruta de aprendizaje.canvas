@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"7782e33a142089dd","type":"text","text":"**`os.getcwd()`**: Es una función que nos permite saber el directorios actual. ","x":-430,"y":-160,"width":250,"height":100,"color":"3"},
+		{"id":"b39c979252bd0f7b","type":"text","text":"**`os.chdir()`**: Es una función que nos permite movernos entre directorios, lo equivalente al comando en Linux/macOS `cd`.","x":-120,"y":-160,"width":245,"height":150,"color":"3"},
+		{"id":"05d02bf3fe95899f","type":"text","text":"Libreria OS","x":-120,"y":-280,"width":250,"height":60,"color":"2"},
+		{"id":"ccab10a56e50e92f","type":"text","text":"**`os.listdir()`**: Es una función que nos permite devolver una lista de elementos (directorios, archivos) de una ruta relativa o absoluta. ","x":200,"y":-160,"width":250,"height":150,"color":"3"},
+		{"id":"044e0672ab6ce3ad","type":"text","text":"**`os.makedirs()`**: Sirve con el fin de crear directorios igual que `os.mkdir` solo que esta ya se puede establecer una jerarquía.","x":-120,"y":40,"width":260,"height":140,"color":"3"},
+		{"id":"985a7cf8732b87a2","type":"text","text":"**`os.mkdir()`**: Es una función que nos permite crear un directorio sin establecer una jerarquía.","x":-435,"y":-15,"width":260,"height":125,"color":"3"},
+		{"id":"06cd34052df17359","type":"text","text":"**`os.rmdir()`**: Es una función que nos permite eliminar directorios **si solo están vacíos**.","x":200,"y":40,"width":260,"height":140,"color":"3"},
+		{"id":"c3ea10c52a3de638","type":"text","text":"**`os.remove()`**: Es una función que nos permite eliminar archivos. ","x":-435,"y":160,"width":260,"height":100,"color":"3"},
+		{"id":"2e3e51b3ed5f5c6f","type":"text","text":"**`os.rename()`**: Es una función que nos permite renombrar archivos o directorios. Además puede servir para mover archivos o directorios.","x":-120,"y":220,"width":260,"height":140,"color":"3"},
+		{"id":"887b36d0e2617fb1","type":"text","text":"**`os.replace()`**: Es muy similar a `os.rename()`, igual puede mover archivos y los podemos remplazar con otro nombre y contenido dentro.","x":200,"y":220,"width":260,"height":160,"color":"3"},
+		{"id":"93cd56eba3ba4006","type":"text","text":"\n**`os.path.exists()`** Es una función que nos permite saber la existencia de un archivo o directorio.","x":180,"y":-460,"width":250,"height":120,"color":"4"},
+		{"id":"5d46f59bad84c9a7","type":"text","text":"**`os.path.isfile`**: Es una función que nos puede servir para saber de la existencia de un archivo.","x":-430,"y":-460,"width":250,"height":120,"color":"4"},
+		{"id":"d1a9013b0169698a","type":"text","text":"**`os.path.join()`**: Es una función que nos permite juntar archivos y directorios para formar una ruta relativa.","x":-125,"y":-460,"width":250,"height":120,"color":"4"},
+		{"id":"ae85e3e4bf9dd360","type":"text","text":"**`os.path.isdir()`**: Es una función que nos ayuda a comprobar si existe un directorio. ","x":180,"y":-640,"width":250,"height":120,"color":"4"},
+		{"id":"0e2cdeb8ed68c793","type":"text","text":"**`os.path.split()`**: Es una función que separa una ruta con archivo. Devuelve la ruta y el archivo con su extensión.","x":-125,"y":-640,"width":250,"height":120,"color":"4"},
+		{"id":"2c329353432e8f63","x":-425,"y":-630,"width":250,"height":110,"color":"4","type":"text","text":"**`os.path.basename`**: Esta función toma una ruta y solo extrae el nombre del archivo con su extensión."}
+	],
+	"edges":[
+		{"id":"8973c2fb2ab7b608","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"7782e33a142089dd","toSide":"top"},
+		{"id":"2d9162c2b64f5153","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"b39c979252bd0f7b","toSide":"top"},
+		{"id":"6ffa901ed70c84ec","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"ccab10a56e50e92f","toSide":"top"},
+		{"id":"7d480cc40e9a205e","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"985a7cf8732b87a2","toSide":"top"},
+		{"id":"132890d810d4718f","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"044e0672ab6ce3ad","toSide":"top"},
+		{"id":"b139d923b9b469a2","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"06cd34052df17359","toSide":"top"},
+		{"id":"5153c90596d84a33","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"c3ea10c52a3de638","toSide":"top"},
+		{"id":"b539748878afc885","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"2e3e51b3ed5f5c6f","toSide":"top"},
+		{"id":"4587ffc70237dfb2","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"887b36d0e2617fb1","toSide":"top"},
+		{"id":"f61bb3d4814b2011","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"d1a9013b0169698a","toSide":"bottom"}
+	]
+}

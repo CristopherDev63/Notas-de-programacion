@@ -5,18 +5,18 @@
 - Sobrescribir archivos existentes automáticamente.
 - Ejemplo: Backup diario de un archivo de configuración.
  
-#### **2.2. Copiar Directorios (`shutil.copytree`)**
+#### **2.2. Copiar Directorios (`shutil.copytree`)**[[2. Copiar directorios]]
 - Copiar estructuras completas de carpetas.
 - Manejar duplicados y permisos.
 - Ejemplo: Clonar un proyecto a un directorio de backup.
 
-#### **2.3. Mover Archivos/Directorios (`shutil.move`)**
+#### **2.3. Mover Archivos/Directorios (`shutil.move`)** [[3. Mover archivos y directorios]]
 - Mover y renombrar en una operación.
 - Ejemplo: Organizar descargas automáticamente por extensión.
 
 ---
 ### **Módulo 3: Eliminación Automatizada**
-#### **3.1. Eliminar Directorios con Contenido (`shutil.rmtree`)**
+#### **3.1. Eliminar Directorios con Contenido (`shutil.rmtree`)**[[4. Eliminar directorios]]
 - Eliminar árboles de directorios completos.
 - Precaución: Eliminación recursiva irreversible.
 - Ejemplo: Limpiar directorios temporales al final de un script.

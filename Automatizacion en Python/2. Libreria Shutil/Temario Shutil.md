@@ -27,7 +27,7 @@
 ---
 ### **Módulo 4: Operaciones Avanzadas para Flujos de Trabajo**
 
-#### **4.1. Empaquetado y Compresión**
+#### **4.1. Empaquetado y Compresión** [[6. Empaquetado y compresión]]
 - Crear archivos comprimidos (`shutil.make_archive`):
     - Formatos: ZIP, TAR, GZTAR.
         
@@ -35,12 +35,12 @@
 
 #### **4.2. Desempaquetado**
 - Extraer archivos comprimidos (`shutil.unpack_archive`).
-- Ejemplo: Procesar lotes de archivos descargados.
+- Ejemplo: Procesar lotes de archivos descargados.[[7. Desempaquetado]]
 
 ---
 ### **Módulo 5: Gestión de Metadatos y Permisos**
 #### **5.1. Preservar Permisos y Metadata**
-- Usar `shutil.copy2` (copia con metadata).
+- Usar `shutil.copy2` (copia con metadata). [[1. Copiar Archivos]]
 - Ejemplo: Migrar servidores manteniendo permisos.
 
 #### **5.2. Manejo de Permisos en Copias**

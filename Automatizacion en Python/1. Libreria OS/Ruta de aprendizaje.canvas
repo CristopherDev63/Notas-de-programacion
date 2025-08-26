@@ -15,7 +15,20 @@
 		{"id":"d1a9013b0169698a","type":"text","text":"**`os.path.join()`**: Es una función que nos permite juntar archivos y directorios para formar una ruta relativa.","x":-125,"y":-460,"width":250,"height":120,"color":"4"},
 		{"id":"ae85e3e4bf9dd360","type":"text","text":"**`os.path.isdir()`**: Es una función que nos ayuda a comprobar si existe un directorio. ","x":180,"y":-640,"width":250,"height":120,"color":"4"},
 		{"id":"0e2cdeb8ed68c793","type":"text","text":"**`os.path.split()`**: Es una función que separa una ruta con archivo. Devuelve la ruta y el archivo con su extensión.","x":-125,"y":-640,"width":250,"height":120,"color":"4"},
-		{"id":"2c329353432e8f63","x":-425,"y":-630,"width":250,"height":110,"color":"4","type":"text","text":"**`os.path.basename`**: Esta función toma una ruta y solo extrae el nombre del archivo con su extensión."}
+		{"id":"2c329353432e8f63","type":"text","text":"**`os.path.basename`**: Esta función toma una ruta y solo extrae el nombre del archivo con su extensión.","x":-425,"y":-630,"width":250,"height":110,"color":"4"},
+		{"id":"6186b77d0b74319c","type":"text","text":"**`os.path.getsize()`**: Es una función que no ayuda a saber el tamaño de directorios o archivos en kilobites ","x":-125,"y":-820,"width":250,"height":120,"color":"4"},
+		{"id":"92ed788136fa9a70","type":"text","text":"**`os.path.getmtime()`**: Es una función que nos ayuda saber la fecha de creacion de un archivo o directorio en un formato no legible.","x":-425,"y":-860,"width":250,"height":160,"color":"4"},
+		{"id":"c88c4b8f36f13092","type":"text","text":"**`os.path.getatime()`**: Es una función que nos ayuda saber la última modificación de un archivo o directorio.","x":180,"y":-814,"width":250,"height":114,"color":"4"},
+		{"id":"311c98405bd338a8","x":-720,"y":-400,"width":250,"height":106,"color":"5","type":"text","text":"**`os.sep`**: Es una función que nos permite hacer una separación de rutas `/` o `\\\\`"},
+		{"id":"064f4a7cbbcb1e9d","x":-720,"y":-227,"width":250,"height":135,"color":"5","type":"text","text":"**`os.extsep`**: Es una constante que nos ayuda a colocar una sepearación, un punto entre el nombre base y la extension de un archivo. "},
+		{"id":"fafca15390d12136","x":-1020,"y":-398,"width":248,"height":103,"color":"5","type":"text","text":"**`os.curdir()`** Es una función que nos ayuda a solo colocar un `.`."},
+		{"id":"418f8cf6d4eab15c","x":-1022,"y":-227,"width":250,"height":87,"color":"5","type":"text","text":"**`os.getenv()`** Es una función que nos ayuda a leer variables de entorno."},
+		{"id":"53b79ebbaf2745cf","x":-1300,"y":-295,"width":250,"height":82,"color":"5","type":"text","text":"**`os.putenv()`** Es una función que nos ayuda modificar las variables de entorno. "},
+		{"id":"83d35567c9deb8e6","x":500,"y":-460,"width":250,"height":140,"color":"6","type":"text","text":"**`os.system`**: Es una función importante que nos permite hacer comandos de sistema dependiendo del sistema operativo."},
+		{"id":"cc19e066ade0512c","x":800,"y":-400,"width":250,"height":80,"color":"6","type":"text","text":"**`os.name`**: Es una función que nos permite saber el nombre del sistema operativo."},
+		{"id":"2ebac4b71b4cace3","x":500,"y":-165,"width":250,"height":80,"color":"6","type":"text","text":"**`os.startfile()`**: Es una función que nos permite abrir programas."},
+		{"id":"5b59ec63bec00e00","x":800,"y":-165,"width":250,"height":120,"color":"6","type":"text","text":"**`os.cpu_count()`**: Es una función que nos permite saber el numero de nucleos de una CPU."},
+		{"id":"0ddda17eaa00cbef","x":1080,"y":-320,"width":250,"height":155,"color":"6","type":"text","text":"**`os.login()`** Es una función que nos permite saber el nombre del usuario que usando ahora mismo en el sistema operativo."}
 	],
 	"edges":[
 		{"id":"8973c2fb2ab7b608","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"7782e33a142089dd","toSide":"top"},
@@ -27,6 +40,24 @@
 		{"id":"5153c90596d84a33","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"c3ea10c52a3de638","toSide":"top"},
 		{"id":"b539748878afc885","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"2e3e51b3ed5f5c6f","toSide":"top"},
 		{"id":"4587ffc70237dfb2","fromNode":"05d02bf3fe95899f","fromSide":"bottom","toNode":"887b36d0e2617fb1","toSide":"top"},
-		{"id":"f61bb3d4814b2011","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"d1a9013b0169698a","toSide":"bottom"}
+		{"id":"f61bb3d4814b2011","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"d1a9013b0169698a","toSide":"bottom"},
+		{"id":"6a67a579e3a69276","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"5d46f59bad84c9a7","toSide":"bottom"},
+		{"id":"4aedbe3e33ea8127","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"93cd56eba3ba4006","toSide":"bottom"},
+		{"id":"5b8012e3908156bf","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"2c329353432e8f63","toSide":"bottom"},
+		{"id":"447ab23c7451cbba","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"0e2cdeb8ed68c793","toSide":"bottom"},
+		{"id":"d173d0e030798c59","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"ae85e3e4bf9dd360","toSide":"bottom"},
+		{"id":"2c32ba6d3ae4d326","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"6186b77d0b74319c","toSide":"bottom"},
+		{"id":"9944048312a8e4ac","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"92ed788136fa9a70","toSide":"bottom"},
+		{"id":"a8c86b340fe0f648","fromNode":"05d02bf3fe95899f","fromSide":"top","toNode":"c88c4b8f36f13092","toSide":"bottom"},
+		{"id":"eae1987ff7c54244","fromNode":"05d02bf3fe95899f","fromSide":"left","toNode":"311c98405bd338a8","toSide":"bottom"},
+		{"id":"5d07b7c9383d509a","fromNode":"05d02bf3fe95899f","fromSide":"left","toNode":"064f4a7cbbcb1e9d","toSide":"top"},
+		{"id":"c45b9bc14acca87f","fromNode":"05d02bf3fe95899f","fromSide":"left","toNode":"fafca15390d12136","toSide":"bottom"},
+		{"id":"10a08aa6daf00a62","fromNode":"05d02bf3fe95899f","fromSide":"left","toNode":"418f8cf6d4eab15c","toSide":"top"},
+		{"id":"d84fa8ee1ffa6e0c","fromNode":"05d02bf3fe95899f","fromSide":"left","toNode":"53b79ebbaf2745cf","toSide":"right"},
+		{"id":"10ea7476e72ad1b7","fromNode":"05d02bf3fe95899f","fromSide":"right","toNode":"83d35567c9deb8e6","toSide":"bottom"},
+		{"id":"2711266416469608","fromNode":"05d02bf3fe95899f","fromSide":"right","toNode":"cc19e066ade0512c","toSide":"bottom"},
+		{"id":"a57f0487818bef1a","fromNode":"05d02bf3fe95899f","fromSide":"right","toNode":"2ebac4b71b4cace3","toSide":"top"},
+		{"id":"69ec4da4596d1f5b","fromNode":"05d02bf3fe95899f","fromSide":"right","toNode":"0ddda17eaa00cbef","toSide":"left"},
+		{"id":"cd80893b6efc1a38","fromNode":"05d02bf3fe95899f","fromSide":"right","toNode":"5b59ec63bec00e00","toSide":"top"}
 	]
 }

@@ -8,47 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76f6af32302ee7cf",
+            "id": "ee1678fd0d267ef5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Automatizacion en Python/1. Libreria OS/Ruta de aprendizaje.canvas",
+                "file": "Automatizacion en Python/2. Libreria Shutil/Ruta de Aprendizaje.canvas",
                 "viewState": {
-                  "x": 40.22390408637444,
-                  "y": -334.7473965159534,
-                  "zoom": -0.11098196803783678
+                  "x": -302.27673103570135,
+                  "y": -375.5606200451803,
+                  "zoom": -0.2019053923776906
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Ruta de aprendizaje"
+              "title": "Ruta de Aprendizaje"
             }
           },
           {
-            "id": "bc42a0b3085a9b09",
+            "id": "068a0fb7ca377b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatizacion en Python/1. Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo.md",
-                "mode": "preview",
+                "file": "Automatizacion en Python/2. Libreria Shutil/Temario Shutil.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo"
+              "title": "Temario Shutil"
             }
           },
           {
-            "id": "e87c205be0a41ff6",
+            "id": "8c3426ed71e1fed8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Automatizacion en Python/3. pathlib/1. Creación de objetos de ruta con Path.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Creación de objetos de ruta con Path"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50247192382812
+    "width": 255.50247192382812,
+    "collapsed": true
   },
   "right": {
     "id": "8643840f8a066c80",
@@ -208,44 +214,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76f6af32302ee7cf",
+  "active": "8c3426ed71e1fed8",
   "lastOpenFiles": [
-    "Automatizacion en Python/1. Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo.md",
+    "Automatizacion en Python/3. pathlib/Temario pathlib.md",
+    "Automatizacion en Python/3. pathlib/1. Creación de objetos de ruta con Path.md",
+    "Automatizacion en Python/Temario de Automatización en Python.md",
+    "Automatizacion en Python/3. pathlib",
+    "Automatizacion en Python/2. Libreria Shutil/Temario Shutil.md",
+    "Automatizacion en Python/2. Libreria Shutil/Ruta de Aprendizaje.canvas",
+    "Automatizacion en Python/2. Libreria Shutil/8. Manejo de permisos y comportamiento con permisos.md",
+    "Automatizacion en Python/2. Libreria Shutil/7. Desempaquetado.md",
+    "Programacion/Como planificar proyectos.md",
+    "Sin título 1.md",
+    "Programacion",
+    "Automatizacion en Python/2. Libreria Shutil/6. Empaquetado y compresión.md",
     "Automatizacion en Python/1. Libreria OS/Ruta de aprendizaje.canvas",
+    "Shell-Bash/0-Temario.md",
+    "Sin título.md",
+    "Shell-Bash",
+    "Automatizacion en Python/1. Libreria OS/2. Gestion de variables de entorno/8. Separador de rutas, Agregar extensión, representar padre directorio.md",
+    "Automatizacion en Python/1. Libreria OS/2. Gestion de variables de entorno/9. Punto, clave para leer variables de entorno, usar variables de entorno.md",
+    "Automatizacion en Python/1. Libreria OS/3. Comandos de sistema operativo/11. Numero de núcleos de la cpu y nombre del usuario..md",
+    "Automatizacion en Python/1. Libreria OS/3. Comandos de sistema operativo/10. Ejecutar comandos, ejecutar archivos en windows, Saber nombre del sistema operativo.md",
+    "Problemas lógicos /Python Avanzado/1. Collections Libreria de python/8. Counter - El Rey del conteo.md",
+    "Plan de ingles básico.md",
+    "Problemas lógicos /Python Avanzado/1. Collections Libreria de python/Sin título.md",
+    "Problemas lógicos /Python Avanzado/2-Listas de comprensión.md",
+    "Automatizacion en Python/1. Libreria OS/0-Temario OS.md",
+    "Automatizacion en Python/1. Libreria OS/1. path/7. Obtener fecha de último acceso.md",
+    "Automatizacion en Python/1. Libreria OS/1. path/6. Obtener el nombre del directorio, Saber el tamaño de directorio y Saber la fecha de modificación.md",
+    "Automatizacion en Python/1. Libreria OS/1. path/5-Existencia de un directorio, dividir ruta o directorio, saber el nombre base de una archivo.md",
     "[[a]].md",
     "Sin título.base",
-    "Automatizacion en Python/1. Libreria OS/2. Gestion de variables de entorno/8. Separador de rutas, Agregar extensión, representar padre directorio.md",
     "Automatizacion en Python/1. Libreria OS/0. Gestions archivos y directorios/2-Creación directorios, eliminar directorios,  eliminar archivos.md",
     "Automatizacion en Python/1. Libreria OS/1. path/4-Combinar rutas y archivos, Saber su Existencia, Sabes la existencia de archivos.md",
-    "Automatizacion en Python/1. Libreria OS/0. Gestions archivos y directorios/3-Renombramiento de archivos, remplazar.md",
-    "Automatizacion en Python/1. Libreria OS/0. Gestions archivos y directorios/1-Saber Directorio actual, Cambiar de directorio,  En listar elementos.md",
-    "Automatizacion en Python/2. Libreria Shutil/3. Mover archivos y directorios.md",
-    "Automatizacion en Python/1. Libreria OS/Sin título.md",
-    "Automatizacion en Python/2. Libreria Shutil/Ruta de Aprendizaje.canvas",
-    "Automatizacion en Python/2. Libreria Shutil/4. Eliminar directorios.md",
-    "Automatizacion en Python/2. Libreria Shutil/5. Cuando usar os y shutil para eliminar.md",
-    "Automatizacion en Python/2. Libreria Shutil/1. Copiar Archivos.md",
-    "Automatizacion en Python/2. Libreria Shutil/2. Copiar directorios.md",
-    "[[2-Creación.md",
-    "Automatizacion en Python/2. Libreria Shutil/Temario Shutil.md",
-    "Automatizacion en Python/2. Libreria Shutil/6. Empaquetado y compresión.md",
-    "Problemas lógicos /Python Avanzado/Problemas documentados/7. Collections Libreria de python/7.1 Counter - El Rey del conteo.md",
-    "Problemas lógicos /Python Avanzado/Problemas documentados/7. Collections Libreria de python/Sin título.md",
-    "Problemas lógicos /1. Temario problemas lógicos.md",
-    "Problemas lógicos /Python Avanzado/Problemas documentados/7. Collections Libreria de python",
-    "Problemas lógicos /Python Avanzado/7. try-except.md",
-    "Problemas lógicos /Python Avanzado/6. Reduce.md",
-    "Mysql/Temario.md",
-    "Automatizacion en Python/Conceptos claves/backups.md",
+    "Problemas lógicos /Python Avanzado/1. Collections Libreria de python",
     "Automatizacion en Python/Conceptos claves",
-    "Problemas lógicos /Python Avanzado/Problemas documentados/Listas de compresión problemas 24578a15854c809dbd74fbf72260e7e0.md",
-    "Problemas lógicos /Python Avanzado/Problemas documentados/Map o diccionarios 24678a15854c8076aaf6f9c1ae99b9e9.md",
     "Automatizacion en Python/2. Libreria Shutil",
     "Automatizacion en Python/1. Libreria OS/3. Comandos de sistema operativo",
     "Mysql",
-    "Automatizacion en Python/1. Libreria OS/2. Gestion de variables de entorno",
-    "Automatizacion en Python/1. Libreria OS/0. Gestions archivos y directorios",
-    "Automatizacion en Python/Funciones útiles para python",
-    "Automatizacion en Python/1. Libreria OS/Practicas como ejemplos"
+    "Automatizacion en Python/1. Libreria OS/2. Gestion de variables de entorno"
   ]
 }

@@ -4,12 +4,16 @@
 		{"id":"0e4fb5ba3202899d","type":"text","text":"**¿Para qué sirve `shutil.copy`?**:\n**Respuesta**: Es una función que nos permite copiar archivos de un directorio a otro. [[1. Copiar Archivos]]","x":-260,"y":-340,"width":265,"height":170,"color":"3"},
 		{"id":"0b776589728e4aec","type":"text","text":"**¿Para qué sirve `shutil.move()`?**:\n**Respuesta**: Es una función que nos permite mover archivos o directorios. [[3. Mover archivos y directorios]]","x":-680,"y":-340,"width":265,"height":170,"color":"3"},
 		{"id":"f5c436ffddc7abf1","type":"text","text":"**¿Para qué sirve `shutil.copytree`?**:\n**Respuesta**: Es función que nos permite copiar directorios de forma recursivamente (copiar todo su contenio dentro). [[2. Copiar directorios]]","x":-260,"y":-120,"width":265,"height":180,"color":"3"},
-		{"id":"56043a31f7ae0da8","type":"text","text":"**¿Para qué sirve `shutil.rmtree`?**:\n**Respuesta**: Es una función que nos ayuda para eliminar directorios sin importar que estos tengan contenido dentro. [[4. Eliminar directorios]]\n","x":-680,"y":-120,"width":265,"height":180,"color":"3"}
+		{"id":"56043a31f7ae0da8","type":"text","text":"**¿Para qué sirve `shutil.rmtree`?**:\n**Respuesta**: Es una función que nos ayuda para eliminar directorios sin importar que estos tengan contenido dentro. [[4. Eliminar directorios]]\n","x":-680,"y":-120,"width":265,"height":180,"color":"3"},
+		{"id":"28761e4e9e9c1e55","x":-260,"y":-640,"width":265,"height":140,"color":"3","type":"text","text":"`os.make_archive()`: Es una función que nos permite hacer compresión a un directorio, y se puede elegir el tipo de formato de comprension.\n"},
+		{"id":"25148bb24908c113","x":-687,"y":-604,"width":280,"height":104,"color":"3","type":"text","text":"`shutil.unpack_archive()`: Es una función que nos permite descomprimir un archivo."}
 	],
 	"edges":[
 		{"id":"bd9cb387c4afa39e","fromNode":"b5664f5a5f65f26b","fromSide":"bottom","toNode":"0e4fb5ba3202899d","toSide":"left"},
 		{"id":"eaf29ede23043eea","fromNode":"b5664f5a5f65f26b","fromSide":"bottom","toNode":"f5c436ffddc7abf1","toSide":"left"},
 		{"id":"e70e383cb9d499cc","fromNode":"b5664f5a5f65f26b","fromSide":"bottom","toNode":"0b776589728e4aec","toSide":"right"},
-		{"id":"cd15e4aebfc8e087","fromNode":"b5664f5a5f65f26b","fromSide":"bottom","toNode":"56043a31f7ae0da8","toSide":"right"}
+		{"id":"cd15e4aebfc8e087","fromNode":"b5664f5a5f65f26b","fromSide":"bottom","toNode":"56043a31f7ae0da8","toSide":"right"},
+		{"id":"10003754fe3dc64a","fromNode":"b5664f5a5f65f26b","fromSide":"top","toNode":"28761e4e9e9c1e55","toSide":"bottom"},
+		{"id":"02a35e4327a7408a","fromNode":"b5664f5a5f65f26b","fromSide":"top","toNode":"25148bb24908c113","toSide":"bottom"}
 	]
 }

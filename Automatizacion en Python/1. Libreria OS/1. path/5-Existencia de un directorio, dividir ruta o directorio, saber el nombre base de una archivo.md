@@ -1,4 +1,4 @@
-# `os.isdir()`
+****# `os.isdir()`
 
 Es una función parecida a `os.path.exists` o `os.path.isfile()` que básicamente lo que hace es saber de la existencia de un directorio nada más (no archivos ni rutas, solo directorios).
 

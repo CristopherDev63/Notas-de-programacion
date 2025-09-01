@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9f58b60a71a36821","x":-140,"y":-140,"width":250,"height":60,"color":"1","type":"text","text":"**Python avazando para lógica**"},
+		{"id":"7e123a6273b2977a","x":-157,"y":-20,"width":285,"height":130,"color":"2","type":"text","text":"**`any`** : Es una función que nos permite saber si lo que esta dentro de un iterable. Devolviendo un resultado booleano. "}
+	],
+	"edges":[
+		{"id":"57efdee06b90860d","fromNode":"9f58b60a71a36821","fromSide":"bottom","toNode":"7e123a6273b2977a","toSide":"top"}
+	]
+}
